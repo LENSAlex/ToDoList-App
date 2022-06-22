@@ -1,0 +1,15 @@
+Apprivoiser , mettre en ligne une app mobile sous react native 
+
+- Pouvoir en fonction des jours faires des to do list
+	
+-Avoir une vue global des porchianes taches pas de tout les jours
+
+- Faire une taches dans un modal en renseignnat la date , texte , mettre une couleur aussi et peut etre planifier un rappel avec une notif.
+
+- Faire une page login et register avec bdd connecter donc api
+
+- Mettre en ligne sur play store avec pub
+
+- Mettre theme black white
+
+- Diagramme recap des taches faites ce mois ci.
